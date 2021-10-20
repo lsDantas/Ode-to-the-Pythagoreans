@@ -1,6 +1,7 @@
 {
   "name": "ode-to-the-pythagoreans",
   "version": "1.0.0",
+  "homepage": ".",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
