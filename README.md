@@ -2,7 +2,7 @@
 
 All is number! Ode to the Pythagoreans is an interactive demonstration of the Pythagorean theorem built with [React](https://reactjs.org/) and [Flask](https://flask.palletsprojects.com/en/2.0.x/). Additional technologies include [Bootstrap](https://react-bootstrap.github.io/) and [react-spring](https://react-spring.io/).
 
-This repository contains both front and back ends. The full stack application may be run with Docker Compose as an orchestration of three container. These are:
+This repository contains both front and back ends. The full stack application may be run with Docker Compose as an orchestration of three containers. These are:
 
 1. The back end built with Flask.
 2. The front end built with React.
